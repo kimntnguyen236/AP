@@ -1,0 +1,7 @@
+D:\AptechSem2\8. AP\C#\AP\d06_AdvMethod\bin\Debug\d06_AdvMethod.exe.config
+D:\AptechSem2\8. AP\C#\AP\d06_AdvMethod\bin\Debug\d06_AdvMethod.exe
+D:\AptechSem2\8. AP\C#\AP\d06_AdvMethod\bin\Debug\d06_AdvMethod.pdb
+D:\AptechSem2\8. AP\C#\AP\d06_AdvMethod\obj\Debug\d06_AdvMethod.csproj.CoreCompileInputs.cache
+D:\AptechSem2\8. AP\C#\AP\d06_AdvMethod\obj\Debug\d06_AdvMethod.exe
+D:\AptechSem2\8. AP\C#\AP\d06_AdvMethod\obj\Debug\d06_AdvMethod.pdb
+D:\AptechSem2\8. AP\C#\AP\d06_AdvMethod\obj\Debug\d06_AdvMethod.csprojAssemblyReference.cache

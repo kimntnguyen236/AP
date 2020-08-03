@@ -1,0 +1,7 @@
+D:\AptechSem2\8. AP\C#\AP\d06_Iterator\obj\Debug\d06_Iterator.csprojAssemblyReference.cache
+D:\AptechSem2\8. AP\C#\AP\d06_Iterator\obj\Debug\d06_Iterator.csproj.CoreCompileInputs.cache
+D:\AptechSem2\8. AP\C#\AP\d06_Iterator\bin\Debug\d06_Iterator.exe.config
+D:\AptechSem2\8. AP\C#\AP\d06_Iterator\bin\Debug\d06_Iterator.exe
+D:\AptechSem2\8. AP\C#\AP\d06_Iterator\bin\Debug\d06_Iterator.pdb
+D:\AptechSem2\8. AP\C#\AP\d06_Iterator\obj\Debug\d06_Iterator.exe
+D:\AptechSem2\8. AP\C#\AP\d06_Iterator\obj\Debug\d06_Iterator.pdb

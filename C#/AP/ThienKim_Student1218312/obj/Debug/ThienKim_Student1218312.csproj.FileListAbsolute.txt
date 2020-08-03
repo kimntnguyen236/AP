@@ -1,0 +1,7 @@
+D:\AptechSem2\8. AP\C#\AP\ThienKim_Student1218312\obj\Debug\ThienKim_Student1218312.csprojAssemblyReference.cache
+D:\AptechSem2\8. AP\C#\AP\ThienKim_Student1218312\obj\Debug\ThienKim_Student1218312.csproj.CoreCompileInputs.cache
+D:\AptechSem2\8. AP\C#\AP\ThienKim_Student1218312\bin\Debug\ThienKim_Student1218312.exe.config
+D:\AptechSem2\8. AP\C#\AP\ThienKim_Student1218312\bin\Debug\ThienKim_Student1218312.exe
+D:\AptechSem2\8. AP\C#\AP\ThienKim_Student1218312\bin\Debug\ThienKim_Student1218312.pdb
+D:\AptechSem2\8. AP\C#\AP\ThienKim_Student1218312\obj\Debug\ThienKim_Student1218312.exe
+D:\AptechSem2\8. AP\C#\AP\ThienKim_Student1218312\obj\Debug\ThienKim_Student1218312.pdb

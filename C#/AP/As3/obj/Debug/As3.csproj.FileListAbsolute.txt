@@ -1,0 +1,7 @@
+D:\AptechSem2\8. AP\C#\AP\As3\obj\Debug\As3.csprojAssemblyReference.cache
+D:\AptechSem2\8. AP\C#\AP\As3\obj\Debug\As3.csproj.CoreCompileInputs.cache
+D:\AptechSem2\8. AP\C#\AP\As3\bin\Debug\As3.exe.config
+D:\AptechSem2\8. AP\C#\AP\As3\bin\Debug\As3.exe
+D:\AptechSem2\8. AP\C#\AP\As3\bin\Debug\As3.pdb
+D:\AptechSem2\8. AP\C#\AP\As3\obj\Debug\As3.exe
+D:\AptechSem2\8. AP\C#\AP\As3\obj\Debug\As3.pdb

@@ -1,0 +1,7 @@
+D:\AptechSem2\8. AP\C#\AP\d06_generics\bin\Debug\d06_generics.exe.config
+D:\AptechSem2\8. AP\C#\AP\d06_generics\bin\Debug\d06_generics.exe
+D:\AptechSem2\8. AP\C#\AP\d06_generics\bin\Debug\d06_generics.pdb
+D:\AptechSem2\8. AP\C#\AP\d06_generics\obj\Debug\d06_generics.csprojAssemblyReference.cache
+D:\AptechSem2\8. AP\C#\AP\d06_generics\obj\Debug\d06_generics.csproj.CoreCompileInputs.cache
+D:\AptechSem2\8. AP\C#\AP\d06_generics\obj\Debug\d06_generics.exe
+D:\AptechSem2\8. AP\C#\AP\d06_generics\obj\Debug\d06_generics.pdb

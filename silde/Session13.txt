@@ -1,0 +1,1 @@
+- Generics are a kind of parameterized data structures that can work with value types as well as reference types.

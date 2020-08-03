@@ -1,0 +1,7 @@
+D:\AptechSem2\8. AP\C#\AP\d02\bin\Debug\d02.exe.config
+D:\AptechSem2\8. AP\C#\AP\d02\bin\Debug\d02.exe
+D:\AptechSem2\8. AP\C#\AP\d02\bin\Debug\d02.pdb
+D:\AptechSem2\8. AP\C#\AP\d02\obj\Debug\d02.csprojAssemblyReference.cache
+D:\AptechSem2\8. AP\C#\AP\d02\obj\Debug\d02.csproj.CoreCompileInputs.cache
+D:\AptechSem2\8. AP\C#\AP\d02\obj\Debug\d02.exe
+D:\AptechSem2\8. AP\C#\AP\d02\obj\Debug\d02.pdb

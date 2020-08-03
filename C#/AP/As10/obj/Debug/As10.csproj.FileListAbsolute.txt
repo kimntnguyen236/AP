@@ -1,0 +1,7 @@
+D:\AptechSem2\8. AP\C#\AP\As10\bin\Debug\As10.exe.config
+D:\AptechSem2\8. AP\C#\AP\As10\bin\Debug\As10.exe
+D:\AptechSem2\8. AP\C#\AP\As10\bin\Debug\As10.pdb
+D:\AptechSem2\8. AP\C#\AP\As10\obj\Debug\As10.csprojAssemblyReference.cache
+D:\AptechSem2\8. AP\C#\AP\As10\obj\Debug\As10.csproj.CoreCompileInputs.cache
+D:\AptechSem2\8. AP\C#\AP\As10\obj\Debug\As10.exe
+D:\AptechSem2\8. AP\C#\AP\As10\obj\Debug\As10.pdb

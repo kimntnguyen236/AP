@@ -1,0 +1,13 @@
+D:\AptechSem2\8. AP\C#\AP\d08_core\bin\Release\netcoreapp3.1\d08_core.exe
+D:\AptechSem2\8. AP\C#\AP\d08_core\bin\Release\netcoreapp3.1\d08_core.deps.json
+D:\AptechSem2\8. AP\C#\AP\d08_core\bin\Release\netcoreapp3.1\d08_core.runtimeconfig.json
+D:\AptechSem2\8. AP\C#\AP\d08_core\bin\Release\netcoreapp3.1\d08_core.runtimeconfig.dev.json
+D:\AptechSem2\8. AP\C#\AP\d08_core\bin\Release\netcoreapp3.1\d08_core.dll
+D:\AptechSem2\8. AP\C#\AP\d08_core\bin\Release\netcoreapp3.1\d08_core.pdb
+D:\AptechSem2\8. AP\C#\AP\d08_core\obj\Release\netcoreapp3.1\d08_core.csprojAssemblyReference.cache
+D:\AptechSem2\8. AP\C#\AP\d08_core\obj\Release\netcoreapp3.1\d08_core.AssemblyInfoInputs.cache
+D:\AptechSem2\8. AP\C#\AP\d08_core\obj\Release\netcoreapp3.1\d08_core.AssemblyInfo.cs
+D:\AptechSem2\8. AP\C#\AP\d08_core\obj\Release\netcoreapp3.1\d08_core.csproj.CoreCompileInputs.cache
+D:\AptechSem2\8. AP\C#\AP\d08_core\obj\Release\netcoreapp3.1\d08_core.dll
+D:\AptechSem2\8. AP\C#\AP\d08_core\obj\Release\netcoreapp3.1\d08_core.pdb
+D:\AptechSem2\8. AP\C#\AP\d08_core\obj\Release\netcoreapp3.1\d08_core.genruntimeconfig.cache

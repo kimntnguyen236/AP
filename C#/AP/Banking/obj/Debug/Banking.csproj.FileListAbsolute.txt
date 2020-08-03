@@ -1,0 +1,7 @@
+D:\AptechSem2\8. AP\C#\AP\Banking\bin\Debug\Banking.exe.config
+D:\AptechSem2\8. AP\C#\AP\Banking\bin\Debug\Banking.exe
+D:\AptechSem2\8. AP\C#\AP\Banking\bin\Debug\Banking.pdb
+D:\AptechSem2\8. AP\C#\AP\Banking\obj\Debug\Banking.csprojAssemblyReference.cache
+D:\AptechSem2\8. AP\C#\AP\Banking\obj\Debug\Banking.csproj.CoreCompileInputs.cache
+D:\AptechSem2\8. AP\C#\AP\Banking\obj\Debug\Banking.exe
+D:\AptechSem2\8. AP\C#\AP\Banking\obj\Debug\Banking.pdb

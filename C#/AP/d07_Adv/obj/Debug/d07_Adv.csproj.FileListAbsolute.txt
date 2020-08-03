@@ -1,0 +1,7 @@
+D:\AptechSem2\8. AP\C#\AP\d07_Adv\bin\Debug\d07_Adv.exe.config
+D:\AptechSem2\8. AP\C#\AP\d07_Adv\bin\Debug\d07_Adv.exe
+D:\AptechSem2\8. AP\C#\AP\d07_Adv\bin\Debug\d07_Adv.pdb
+D:\AptechSem2\8. AP\C#\AP\d07_Adv\obj\Debug\d07_Adv.csprojAssemblyReference.cache
+D:\AptechSem2\8. AP\C#\AP\d07_Adv\obj\Debug\d07_Adv.csproj.CoreCompileInputs.cache
+D:\AptechSem2\8. AP\C#\AP\d07_Adv\obj\Debug\d07_Adv.exe
+D:\AptechSem2\8. AP\C#\AP\d07_Adv\obj\Debug\d07_Adv.pdb
